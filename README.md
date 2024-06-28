@@ -1,4 +1,4 @@
-# MyHome - Airbnb Clone
+# MyHome
 
 ![MyHome Logo](path_to_logo_image) <!-- Optional: Add a logo image -->
 
